@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>分类 on 我来过这世界</title>
+    <title>分类 on 一个角落</title>
     <link>/categories/</link>
-    <description>Recent content in 分类 on 我来过这世界</description>
+    <description>Recent content in 分类 on 一个角落</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh</language>
     <copyright>@2025·秋水刻剑</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>April</title>
+      <link>/categories/april/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+      <guid>/categories/april/</guid>
+      <description></description>
+    </item>
     <item>
       <title>随笔</title>
       <link>/categories/%E9%9A%8F%E7%AC%94/</link>
