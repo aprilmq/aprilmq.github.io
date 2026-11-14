@@ -10,17 +10,10 @@
     <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>April</title>
-      <link>/categories/april/</link>
+      <title>修身</title>
+      <link>/categories/%E4%BF%AE%E8%BA%AB/</link>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <guid>/categories/april/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>浅思</title>
-      <link>/categories/%E6%B5%85%E6%80%9D/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
-      <guid>/categories/%E6%B5%85%E6%80%9D/</guid>
+      <guid>/categories/%E4%BF%AE%E8%BA%AB/</guid>
       <description></description>
     </item>
   </channel>
